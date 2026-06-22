@@ -42,7 +42,7 @@ export default function HomePage() {
 
   const actualities = [
     {
-      title: 'Nové termíny pro podzim 2026',
+      title: 'TEST',
       date: 'Září 2026',
       summary: 'Testovací aktualita: dozvíte se zde, že nové termíny byly právě otevřeny a rezervace lze provést telefonicky i e-mailem.',
     },
